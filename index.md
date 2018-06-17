@@ -3,11 +3,13 @@ layout: default
 ---
 
 I am now a fourth-year Ph.D. candidate in Electrical Engingeering department at University of Southern California. I received B.E. degree from Tsinghua University in 2014. I am advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/).
+
 My research interests fall in the scope of computer vision and machine learning.
 
 More about me: [Resume](USC_201806_Zhenheng_CV.pdf), [Google scholar](https://scholar.google.com/citations?user=Ds5wwRoAAAAJ&hl=en), [Github](https://github.com/zhenheny).
 
 Email: zhenheny at usc.edu
+
 Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
 
 ## Education
