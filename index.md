@@ -51,7 +51,7 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
         <li>
           Position: Research Intern</li>
         <li>
-          Mentor: [Vignesh Ramanathan](http://ai.stanford.edu/~vigneshr/), [Dhruv Mahajan](http://www.cs.columbia.edu/~dhruv/)</li>
+          Mentor: <a href="http://ai.stanford.edu/~vigneshr/">Vignesh Ramanathan</a>, <a href="http://ai.stanford.edu/~vigneshr/">Dhruv Mahajan</a></li>
       </ul>      
       </div>
      
@@ -66,7 +66,7 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
         <li>
           Position: Research Intern</li>
         <li>
-          Mentor: [Peng Wang](http://jerryking234.wixsite.com/pengwang), [Wei Xu](http://research.baidu.com/People/index-view?id=110)</li>
+          Mentor: <a href="http://jerryking234.wixsite.com/pengwang">Peng Wang</a>, <a href="http://research.baidu.com/People/index-view?id=110">Wei Xu</a></li>
       </ul>      
       </div>
  
