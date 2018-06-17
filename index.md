@@ -96,13 +96,13 @@ KangGeon Kim*, **Zhenheng Yang\***, Iacopo Masi, Ram Nevatia and Gerard Medioni,
 
 Jiyang Gao*, **Zhenheng Yang\***, Kan Chen, Chen Sun and Ram Nevatia, "_TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals_", in International Conference on Computer Vision (**ICCV**), 2017, [[paper](https://arxiv.org/abs/1703.06189)], [[code](https://github.com/jiyanggao/TURN-TAP)]
 
-**Zhenheng Yang**, Jiyang Gao and Ram Nevatia, "_Spatio-Temporal Action Detection with Cascade Proposal and Location Anticipation_", British Machine Vision Conference (**BMVC**), 2017 **[Oral]**, [[paper](https://arxiv.org/abs/1708.00042)], [[presentation](https://www.youtube.com/watch?v=oxPxY0aB4eI)]
+**Zhenheng Yang**, Jiyang Gao and Ram Nevatia, "_Spatio-Temporal Action Detection with Cascade Proposal and Location Anticipation_", British Machine Vision Conference (**BMVC**), 2017 **Oral**, [[paper](https://arxiv.org/abs/1708.00042)], [[presentation](https://www.youtube.com/watch?v=oxPxY0aB4eI)]
 
-Jiyang Gao, Chen Sun, **Zhenheng Yang** and Ram Nevatia, "_TALL: Temporal Activity Localization via Language Query_", in International Conference on Computer Vision (**ICCV**), 2017, **[Spotlight]**, [[paper](https://arxiv.org/abs/1705.02101)], [[code](https://github.com/jiyanggao/TALL)], [[presentation](https://www.youtube.com/watch?v=ZDO064ccYS0)]
+Jiyang Gao, Chen Sun, **Zhenheng Yang** and Ram Nevatia, "_TALL: Temporal Activity Localization via Language Query_", in International Conference on Computer Vision (**ICCV**), 2017, **Spotlight**, [[paper](https://arxiv.org/abs/1705.02101)], [[code](https://github.com/jiyanggao/TALL)], [[presentation](https://www.youtube.com/watch?v=ZDO064ccYS0)]
 
 Jiyang Gao, **Zhenheng Yang** and Ram Nevatia, "_Cascaded Boundary Regression for Temporal Action Detection_", British Machine Vision Conference (**BMVC**), 2017, [[paper](https://arxiv.org/abs/1705.01180)], [[code](https://github.com/jiyanggao/CBR)], [[Results](https://github.com/jiyanggao/CBR-results)]
 
-Jiyang Gao, **Zhenheng Yang** and Ram Nevatia, "_RED: Reinforced Encoder-Decoder Network for Action Anticipation_", British Machine Vision Conference (**BMVC**), 2017 **[Oral]**, [[paper](https://arxiv.org/abs/1707.04818)], [[presentation](https://www.youtube.com/watch?v=wewtVcMzet0&t=6s)]
+Jiyang Gao, **Zhenheng Yang** and Ram Nevatia, "_RED: Reinforced Encoder-Decoder Network for Action Anticipation_", British Machine Vision Conference (**BMVC**), 2017 **Oral**, [[paper](https://arxiv.org/abs/1707.04818)], [[presentation](https://www.youtube.com/watch?v=wewtVcMzet0&t=6s)]
 
 **Zhenheng Yang** and Ram Nevatia, "_A multi-scale cascade fully convolutional network face detector_", International Conference on Pattern Recognition (**ICPR**), 2016, [[paper](https://arxiv.org/abs/1609.03536)], [[model](https://sites.google.com/site/irisprojectjanus/products-services)]
 
