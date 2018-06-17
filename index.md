@@ -5,7 +5,7 @@ layout: default
 I am now a fourth-year Ph.D. candidate in Electrical Engingeering department at University of Southern California. I received B.E. degree from Tsinghua University in 2014. I am advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/).
 My research interests fall in the scope of computer vision and machine learning.
 
-More about me: [resume](USC_201806_Zhenheng_CV.pdf), [Google scholar](https://scholar.google.com/citations?user=Ds5wwRoAAAAJ&hl=en), [Github](https://github.com/zhenheny).
+More about me: [Resume](USC_201806_Zhenheng_CV.pdf), [Google scholar](https://scholar.google.com/citations?user=Ds5wwRoAAAAJ&hl=en), [Github](https://github.com/zhenheny).
 
 Email: zhenheny at usc.edu
 Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
@@ -15,7 +15,7 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
 <div align="left">
         <strong> University of Southern California, Los Angeles, U.S. (Aug 2014 - Current) </strong>
           <a href="https://www.usc.edu/" target="_blank" rel="external">
-            <img border="0" src="usc_logo.jpg" align="right" width="70" height="70">
+            <img border="0" src="usc_logo.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
@@ -30,7 +30,7 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
 <div align="left">
         <strong> Tsinghua University, Beijing, China (Aug. 2010 - Jul. 2014) </strong>
           <a href="http://www.tsinghua.edu.cn/publish/thu2018en/index.html" target="_blank" rel="external">
-            <img border="0" src="tsinghua_logo.jpg" align="right" width="70" height="70">
+            <img border="0" src="tsinghua_logo.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
@@ -43,7 +43,7 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
 <div align="left">
         <strong> Facebook Research, Menlo Park, CA (May. 2018 - Aug. 2018) </strong>
           <a href="https://research.fb.com/category/computer-vision/" target="_blank" rel="external">
-            <img border="0" src="facebook.jpg" align="right" width="65" height="65">
+            <img border="0" src="facebook.png" align="right" width="65" height="65">
           </a> 
         <ul>
         <li>
@@ -58,7 +58,7 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
 <div align="left">
         <strong> Baidu Research, Sunnyvale, CA (May. 2017 - Aug. 2018) </strong>
           <a href="http://research.baidu.com/" target="_blank" rel="external">
-            <img border="0" src="baidu.jpg" align="right" width="65" height="65">
+            <img border="0" src="baidu.png" align="right" width="65" height="65">
           </a> 
         <ul>
         <li>
