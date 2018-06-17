@@ -71,7 +71,7 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
 <div align="left">
         <strong> University of Southern California, CA (Aug. 2014 - Current) </strong>
           <a href="http://www.usc.edu/" target="_blank" rel="external">
-            <img border="0" src="usc_logo.jpg" align="right" width="65" height="65">
+            <img border="0" src="usc_logo.png" align="right" width="65" height="65">
           </a> 
         <ul>
         <li>
