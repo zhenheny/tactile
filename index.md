@@ -15,11 +15,13 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
 <div align="left">
         <strong> University of Southern California, Los Angeles, U.S. (Aug 2014 - Current) </strong>
           <a href="https://www.usc.edu/" target="_blank" rel="external">
-            <img border="0" src="usc_logo.jpg" align="right" width="60" height="60">
+            <img border="0" src="usc_logo.jpg" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
-          Doctor of Philosophy (Ph.D), Advisor: Ram Nevatia</li>
+          Doctor of Philosophy (Ph.D)</li>
+        <li>
+                Advisor: Ram Nevatia </li>
       </ul>      
       </div>
       
