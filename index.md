@@ -112,6 +112,6 @@ Technical committee: ICCV CHI workshop 2017
 
 <div align="center">
 <a href="http://www.hitwebcounter.com" target="_blank">
-<img src="http://hitwebcounter.com/counter/counter.php?page=6959962&style=0036&nbdigits=5&type=page&initCount=10" title="." Alt="."   border="0" >
-</a> 
+<img src="http://hitwebcounter.com/counter/counter.php?page=6960169&style=0030&nbdigits=5&type=page&initCount=100" title="webs counters" Alt="webs counters"   border="0" >
+</a>   
         </div>
