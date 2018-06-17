@@ -79,7 +79,7 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
         <li>
           Position: Research Assistant</li>
         <li>
-          Mentor: [Ram Nevatia](http://iris.usc.edu/people/nevatia/)</li>
+          Mentor: <a href="http://iris.usc.edu/people/nevatia/">Ram Nevatia</a></li>
       </ul>      
       </div>
 
