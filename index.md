@@ -109,3 +109,9 @@ Jiyang Gao, **Zhenheng Yang** and Ram Nevatia, "_RED: Reinforced Encoder-Decoder
 ## Academic Services
 Reviewer for: WACV 2019, CVPR 2018, AAAI 2018, ACCV 2018, ACM MM 2017, ICCV workshop 2017, IPTA 2017
 Technical committee: ICCV CHI workshop 2017
+
+<div align="center">
+<a href="http://www.hitwebcounter.com" target="_blank">
+<img src="http://hitwebcounter.com/counter/counter.php?page=6959961&style=0024&nbdigits=5&type=page&initCount=100" title="." Alt="."   border="0" >
+</a> 
+        </div>
