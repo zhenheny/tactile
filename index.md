@@ -2,122 +2,106 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am now a fourth-year Ph.D. candidate in Electrical Engingeering department at University of Southern California. I received B.E. degree from Tsinghua University in 2014. I am advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/).
+My research interests fall in the scope of computer vision and machine learning.
 
-[Link to another page](./another-page.html).
+More about me: [resume](USC_201806_Zhenheng_CV.pdf), [Google scholar](https://scholar.google.com/citations?user=Ds5wwRoAAAAJ&hl=en), [Github](https://github.com/zhenheny).
 
-There should be whitespace between paragraphs.
+Email: zhenheny at usc.edu
+Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Education
 
-# Header 1
+<div align="left">
+        <strong> University of Southern California, Los Angeles, U.S. (Aug 2014 - Current) </strong>
+          <a href="https://www.usc.edu/" target="_blank" rel="external">
+            <img border="0" src="usc_logo.jpg" align="right" width="60" height="60">
+          </a> 
+        <ul>
+        <li>
+          Doctor of Philosophy (Ph.D), Advisor: Ram Nevatia</li>
+      </ul>      
+      </div>
+      
+      
+      
+<div align="left">
+        <strong> Tsinghua University, Beijing, China (Aug. 2010 - Jul. 2014) </strong>
+          <a href="http://www.tsinghua.edu.cn/publish/thu2018en/index.html" target="_blank" rel="external">
+            <img border="0" src="tsinghua_logo.jpg" align="right" width="70" height="70">
+          </a> 
+        <ul>
+        <li>
+          Bachelor of Engineering (B.E.)</li>
+      </ul>      
+      </div>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Work Experience
 
-## Header 2
+<div align="left">
+        <strong> Facebook Research, Menlo Park, CA (May. 2018 - Aug. 2018) </strong>
+          <a href="https://research.fb.com/category/computer-vision/" target="_blank" rel="external">
+            <img border="0" src="facebook.jpg" align="right" width="65" height="65">
+          </a> 
+        <ul>
+        <li>
+          Position: Research Intern</li>
+        <li>
+          Mentor: [Vignesh Ramanathan](http://ai.stanford.edu/~vigneshr/), [Dhruv Mahajan](http://www.cs.columbia.edu/~dhruv/)</li>
+      </ul>      
+      </div>
+     
+      
+      
+<div align="left">
+        <strong> Baidu Research, Sunnyvale, CA (May. 2017 - Aug. 2018) </strong>
+          <a href="http://research.baidu.com/" target="_blank" rel="external">
+            <img border="0" src="baidu.jpg" align="right" width="65" height="65">
+          </a> 
+        <ul>
+        <li>
+          Position: Research Intern</li>
+        <li>
+          Mentor: [Peng Wang](http://jerryking234.wixsite.com/pengwang), [Wei Xu](http://research.baidu.com/People/index-view?id=110)</li>
+      </ul>      
+      </div>
+ 
+<div align="left">
+        <strong> University of Southern California, CA (Aug. 2014 - Current) </strong>
+          <a href="http://www.usc.edu/" target="_blank" rel="external">
+            <img border="0" src="usc_logo.jpg" align="right" width="65" height="65">
+          </a> 
+        <ul>
+        <li>
+          Position: Research Assistant</li>
+        <li>
+          Mentor: [Ram Nevatia](http://iris.usc.edu/people/nevatia/)</li>
+      </ul>      
+      </div>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Publications
 
-### Header 3
+**Zhenheng Yang**, Peng Wang, Yang Wang, Wei Xu and Ram Nevatia, "_LEGO: Learning Edge with Geometry all at Once by Watching Videos_", IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018, **Spotlight**, [[paper](https://arxiv.org/abs/1803.05648)], [[code](https://github.com/zhenheny/LEGO)] [[demo](https://www.youtube.com/watch?v=40-GAgdUwI0)]
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Yang Wang, Yi Yang, **Zhenheng Yang**, Liang Zhao and Wei Xu, "_Occlusion Aware Unsupervised Learning of Optical Flow_", IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018, [[paper](https://arxiv.org/abs/1711.05890)]
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**Zhenheng Yang**, Peng Wang, Wei Xu, Liang Zhao and Ram Nevatia, "_Unsupervised Learning of Geometry with Edge-aware Depth-Normal
+Consistency_", AAAI Conference on Artificial Intelligence (**AAAI**), 2018, **Oral**, [[paper](https://arxiv.org/abs/1711.03665)]
 
-#### Header 4
+KangGeon Kim*, **Zhenheng Yang\***, Iacopo Masi, Ram Nevatia and Gerard Medioni, "_Face and Body Association for Video-Based Face Recognition_", IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2018, [[paper](https://ieeexplore.ieee.org/document/8354115/authors)] [[model](https://sites.google.com/site/irisprojectjanus/products-services)]
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Jiyang Gao*, **Zhenheng Yang\***, Kan Chen, Chen Sun and Ram Nevatia, "_TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals_", in International Conference on Computer Vision (**ICCV**), 2017, [[paper](https://arxiv.org/abs/1703.06189)], [[code](https://github.com/jiyanggao/TURN-TAP)]
 
-##### Header 5
+**Zhenheng Yang**, Jiyang Gao and Ram Nevatia, "_Spatio-Temporal Action Detection with Cascade Proposal and Location Anticipation_", British Machine Vision Conference (**BMVC**), 2017 **[Oral]**, [[paper](https://arxiv.org/abs/1708.00042)], [[presentation](https://www.youtube.com/watch?v=oxPxY0aB4eI)]
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Jiyang Gao, Chen Sun, **Zhenheng Yang** and Ram Nevatia, "_TALL: Temporal Activity Localization via Language Query_", in International Conference on Computer Vision (**ICCV**), 2017, **[Spotlight]**, [[paper](https://arxiv.org/abs/1705.02101), [code](https://github.com/jiyanggao/TALL)], [presentation](https://www.youtube.com/watch?v=ZDO064ccYS0)
 
-###### Header 6
+Jiyang Gao, **Zhenheng Yang** and Ram Nevatia, "_Cascaded Boundary Regression for Temporal Action Detection_", British Machine Vision Conference (**BMVC**), 2017, [[paper](https://arxiv.org/abs/1705.01180), [code](https://github.com/jiyanggao/CBR)], [[code](https://github.com/jiyanggao/CBR)], [[THUMOS-14 results](https://github.com/jiyanggao/CBR-results)]
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Jiyang Gao, **Zhenheng Yang** and Ram Nevatia, "_RED: Reinforced Encoder-Decoder Network for Action Anticipation_", British Machine Vision Conference (**BMVC**), 2017 **[Oral]**, [[paper](https://arxiv.org/abs/1707.04818)], [presentation](https://www.youtube.com/watch?v=wewtVcMzet0&t=6s)
 
-### There's a horizontal rule below this.
+**Zhenheng Yang** and Ram Nevatia, "_A multi-scale cascade fully convolutional network face detector_", International Conference on Pattern Recognition (**ICPR**), 2016, [[paper](https://arxiv.org/abs/1609.03536)], [[model](https://sites.google.com/site/irisprojectjanus/products-services)]
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Academic Services
+Reviewer for: WACV 2019, CVPR 2018, AAAI 2018, ACCV 2018, ACM MM 2017, ICCV workshop 2017, IPTA 2017
+Technical committee: ICCV CHI workshop 2017
