@@ -58,7 +58,7 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
       
       
 <div align="left">
-        <strong> Baidu Research, Sunnyvale, CA (May. 2017 - Aug. 2018) </strong>
+        <strong> Baidu Research, Sunnyvale, CA (May. 2017 - Aug. 2017) </strong>
           <a href="http://research.baidu.com/" target="_blank" rel="external">
             <img border="0" src="baidu.png" align="right" width="70" height="70">
           </a> 
