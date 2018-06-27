@@ -3,3 +3,5 @@ description: Welcome to my personal webpage.
 show_downloads: False
 google_analytics:
 theme: jekyll-theme-tactile
+plugins:
+  - jekyll-seo-tag
