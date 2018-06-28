@@ -51,7 +51,7 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
         <li>
           Position: Research Intern</li>
         <li>
-          Mentor: <a href="http://ai.stanford.edu/~vigneshr/">Vignesh Ramanathan</a>, <a href="http://ai.stanford.edu/~vigneshr/">Dhruv Mahajan</a></li>
+          Mentor: <a href="http://ai.stanford.edu/~vigneshr/">Vignesh Ramanathan</a>, <a href="https://www.cs.utexas.edu/~deepti/">Deepti Ghadiyaram</a>, <a href="https://research.fb.com/people/mahajan-dhruv/">Dhruv Mahajan</a></li>
       </ul>      
       </div>
      
@@ -66,7 +66,7 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
         <li>
           Position: Research Intern</li>
         <li>
-          Mentor: <a href="http://jerryking234.wixsite.com/pengwang">Peng Wang</a>, <a href="http://research.baidu.com/People/index-view?id=110">Wei Xu</a></li>
+          Mentor: <a href="http://jerryking234.wixsite.com/pengwang">Peng Wang</a>, <a href="https://www.linkedin.com/in/emailweixu/">Wei Xu</a></li>
       </ul>      
       </div>
  
@@ -107,9 +107,10 @@ Jiyang Gao, <strong>Zhenheng Yang</strong> and Ram Nevatia, "_RED: Reinforced En
 <strong>Zhenheng Yang</strong> and Ram Nevatia, "_A multi-scale cascade fully convolutional network face detector_", International Conference on Pattern Recognition (<strong>ICPR</strong>), 2016, [[paper](https://arxiv.org/abs/1609.03536)], [[model](https://sites.google.com/site/irisprojectjanus/products-services)]
 
 ## Academic Services
-Reviewer for: WACV 2019, CVPR 2018, AAAI 2018, ACCV 2018, ACM MM 2017, ICCV workshop 2017, IPTA 2017
+Reviewer for: WACV 2019, ECCV 2018 workshop, CVPR 2018, AAAI 2018, ACCV 2018, ACM MM 2017, ICCV 2017 workshop, IPTA 2017
 
 Technical committee: ICCV CHI workshop 2017
+
 
 <div align="center">
 <a href="https://clustrmaps.com/site/19x5b" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Rv_bWFfPipA9gtm9uwY6xRQGha_raL_Dx6yCs0fa4jY&cl=ffffff"></a>
