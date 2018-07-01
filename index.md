@@ -86,7 +86,7 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
 ## Publications
 <strong>Zhenheng Yang</strong>, Peng Wang, Yang Wang, Wei Xu and Ram Nevatia, "_Every Pixel Counts: Unsupervised Geometry Learning with Holistic 3D Motion Understanding_", arXiv preprint, 2018. [[paper](https://arxiv.org/abs/1806.10556)]
 
-<strong>Zhenheng Yang</strong>, Peng Wang, Yang Wang, Wei Xu and Ram Nevatia, "_LEGO: Learning Edge with Geometry all at Once by Watching Videos_", IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2018, <strong>Spotlight</strong>. [[paper](https://arxiv.org/abs/1803.05648)], [[code](https://github.com/zhenheny/LEGO)], [[demo](https://www.youtube.com/watch?v=40-GAgdUwI0)], [[presentation],(https://youtu.be/WrEKJeK-Wow?t=4628)]
+<strong>Zhenheng Yang</strong>, Peng Wang, Yang Wang, Wei Xu and Ram Nevatia, "_LEGO: Learning Edge with Geometry all at Once by Watching Videos_", IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2018, <strong>Spotlight</strong>. [[paper](https://arxiv.org/abs/1803.05648)], [[code](https://github.com/zhenheny/LEGO)], [[demo](https://www.youtube.com/watch?v=40-GAgdUwI0)], [[presentation](https://youtu.be/WrEKJeK-Wow?t=4628)]
 
 Yang Wang, Yi Yang, <strong>Zhenheng Yang</strong>, Liang Zhao and Wei Xu, "_Occlusion Aware Unsupervised Learning of Optical Flow_", IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2018. [[paper](https://arxiv.org/abs/1711.05890)]
 
