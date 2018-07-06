@@ -114,5 +114,5 @@ Technical committee: ICCV CHI workshop 2017
 
 
 <div align="center">
-<a href="https://clustrmaps.com/site/19x5b" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Rv_bWFfPipA9gtm9uwY6xRQGha_raL_Dx6yCs0fa4jY&cl=ffffff"></a>
+<a href="https://clustrmaps.com/site/1a9o9" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Rv_bWFfPipA9gtm9uwY6xRQGha_raL_Dx6yCs0fa4jY&cl=ffffff"></a>
 </div>
