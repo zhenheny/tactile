@@ -6,7 +6,7 @@ I am now a fourth-year Ph.D. candidate in Electrical Engingeering department at 
 
 My research interests fall in the scope of computer vision and machine learning.
 
-More about me: [Resume](USC_201806_Zhenheng_CV.pdf), [Google scholar](https://scholar.google.com/citations?user=Ds5wwRoAAAAJ&hl=en), [Github](https://github.com/zhenheny).
+More about me: [Resume](USC_201807_Zhenheng_CV.pdf), [Google scholar](https://scholar.google.com/citations?user=Ds5wwRoAAAAJ&hl=en), [Github](https://github.com/zhenheny).
 
 Email: zhenheny at usc.edu
 
