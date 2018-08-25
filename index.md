@@ -108,7 +108,7 @@ Jiyang Gao, <strong>Zhenheng Yang</strong> and Ram Nevatia, "_RED: Reinforced En
 <strong>Zhenheng Yang</strong> and Ram Nevatia, "_A multi-scale cascade fully convolutional network face detector_", International Conference on Pattern Recognition (<strong>ICPR</strong>), 2016. [[paper](https://arxiv.org/abs/1609.03536)], [[model](https://sites.google.com/site/irisprojectjanus/products-services)]
 
 ## Academic Services
-Reviewer for: WACV 2019, ECCV 2018 workshop, CVPR 2018, AAAI 2018, ACCV 2018, ACM MM 2017, ICCV 2017 workshop, IPTA 2017
+Reviewer for: AAAI 2019, WACV 2019, ECCV 2018 workshop, CVPR 2018, AAAI 2018, ACCV 2018, ACM MM 2017, ICCV 2017 workshop, IPTA 2017
 
 Technical committee: ICCV CHI workshop 2017
 
