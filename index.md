@@ -110,9 +110,7 @@ Jiyang Gao, <strong>Zhenheng Yang</strong> and Ram Nevatia, "_RED: Reinforced En
 ## Academic Services
 Reviewer: AAAI 2019, WACV 2019, ECCV 2018 workshop, CVPR 2018, AAAI 2018, ACCV 2018, ACM MM 2017, ICCV 2017 workshop, IPTA 2017
 
-Program committee member: AAAI 2019
-
-Technical committee: ICCV CHI workshop 2017
+Program committee member: AAAI 2019, ICCV CHI workshop 2017
 
 
 <div align="center">
