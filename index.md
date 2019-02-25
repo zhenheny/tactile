@@ -84,7 +84,13 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
       </div>
 
 ## Publications
-<strong>Zhenheng Yang</strong>, Peng Wang, Yang Wang, Wei Xu and Ram Nevatia, "_Every Pixel Counts: Unsupervised Geometry Learning with Holistic 3D Motion Understanding_", arXiv preprint, 2018. [[paper](https://arxiv.org/abs/1806.10556)]
+<strong>Zhenheng Yang</strong>, Vignesh Ramanathan, Deepti Ghadiyaram, Ram Nevatia, Dhruv Mahajan. "Activity Driven Weakly Supervised Object Detection". IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019.
+
+Yang Wang, <strong>Zhenheng Yang</strong>, Peng Wang, Yi Yang, Chenxu Luo, and Wei Xu. "Joint Unsupervised Learning of Optical Flow and Depth by Watching Stereo Videos.", IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019. [[paper](https://arxiv.org/abs/1810.03654)]
+        
+Chenxu Luo*, <strong>Zhenheng Yang*</strong>, Peng Wang, Yang Wang, Wei Xu, Ram Nevatia, and Alan Yuille. "Every pixel counts++: Joint learning of geometry and motion with 3d holistic understanding.", TPAMI under review.
+
+<strong>Zhenheng Yang</strong>, Peng Wang, Yang Wang, Wei Xu and Ram Nevatia, "_Every Pixel Counts: Unsupervised Geometry Learning with Holistic 3D Motion Understanding_", European Conference on Computer Vision VNAD workshop (<strong>ECCVW</strong>), 2018. [[paper](https://arxiv.org/abs/1806.10556)]
 
 <strong>Zhenheng Yang</strong>, Peng Wang, Yang Wang, Wei Xu and Ram Nevatia, "_LEGO: Learning Edge with Geometry all at Once by Watching Videos_", IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2018, <strong>Spotlight</strong>. [[paper](https://arxiv.org/abs/1803.05648)], [[code](https://github.com/zhenheny/LEGO)], [[demo](https://www.youtube.com/watch?v=40-GAgdUwI0)], [[presentation](https://youtu.be/WrEKJeK-Wow?t=4628)]
 
@@ -108,7 +114,7 @@ Jiyang Gao, <strong>Zhenheng Yang</strong> and Ram Nevatia, "_RED: Reinforced En
 <strong>Zhenheng Yang</strong> and Ram Nevatia, "_A multi-scale cascade fully convolutional network face detector_", International Conference on Pattern Recognition (<strong>ICPR</strong>), 2016. [[paper](https://arxiv.org/abs/1609.03536)], [[model](https://sites.google.com/site/irisprojectjanus/products-services)]
 
 ## Academic Services
-Reviewer: AAAI 2019, WACV 2019, ECCV workshop 2018, CVPR 2018, AAAI 2018, ACCV 2018, ACM MM 2017, ICCV workshop 2017, IPTA 2017
+Reviewer: ICCV 2019, CVPR 2019, TVCJ, AAAI 2019, WACV 2019, ECCV workshop 2018, CVPR 2018, AAAI 2018, ACCV 2018, ACM MM 2017, ICCV workshop 2017, IPTA 2017
 
 Program committee member: AAAI 2019, ICCV CHI workshop 2017
 
