@@ -2,20 +2,18 @@
 layout: default
 ---
 
-I am now a fourth-year Ph.D. candidate in Electrical Engingeering department at University of Southern California. I received B.E. degree from Tsinghua University in 2014. I am advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/).
-
-My research interests fall in the scope of computer vision and machine learning.
+I currently work as a research scientist at Facebook AI. I obtained my Ph.D. degree from University of Southern California (USC) under advisement of [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). My research interests include computer vision and machine learning, specifically weakly supervised learning, 3D perception and activity reasoning. I received B.E. degree from Tsinghua University in 2014.
 
 More about me: [Resume](USC_201807_Zhenheng_CV.pdf), [Google scholar](https://scholar.google.com/citations?user=Ds5wwRoAAAAJ&hl=en), [Github](https://github.com/zhenheny).
 
-Email: zhenheny at usc.edu
+Email: zhenheny at gmail.com
 
-Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
+Office: 1 Hacker Way, Menlo Park, CA 94025
 
 ## Education
 
 <div align="left">
-        <strong> University of Southern California, Los Angeles, CA (Aug 2014 - Current) </strong>
+        <strong> University of Southern California, Los Angeles, CA (Aug. 2014 - Dec. 2018) </strong>
           <a href="https://www.usc.edu/" target="_blank" rel="external">
             <img border="0" src="usc_logo.png" align="right" width="70" height="70">
           </a> 
@@ -43,7 +41,7 @@ Office: PHE 232, 3737 Watt Way, Los Angeles, CA 90007
 ## Work Experience
 
 <div align="left">
-        <strong> Facebook Research, Menlo Park, CA (May. 2018 - Aug. 2018) </strong>
+        <strong> Facebook AI, Menlo Park, CA (May. 2018 - Aug. 2018) </strong>
           <a href="https://research.fb.com/category/computer-vision/" target="_blank" rel="external">
             <img border="0" src="facebook.png" align="right" width="70" height="70">
           </a> 
