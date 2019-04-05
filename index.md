@@ -84,7 +84,7 @@ Office: 1 Hacker Way, Menlo Park, CA 94025
 ## Publications
 <strong>Zhenheng Yang</strong>, Vignesh Ramanathan, Deepti Ghadiyaram, Ram Nevatia, Dhruv Mahajan. "Activity Driven Weakly Supervised Object Detection". IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019.[[paper](https://arxiv.org/abs/1904.01665)]
 
-Yang Wang, Peng Wang, <strong>Zhenheng Yang</strong>, Chenxu Luo, Yi Yang, and Wei Xu. "UnOS: Unified Unsupervised Optical-flow and Stereo-depth Estimation by Watching Videos", IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019.
+Yang Wang, Peng Wang, <strong>Zhenheng Yang</strong>, Chenxu Luo, Yi Yang, and Wei Xu. "UnOS: Unified Unsupervised Optical-flow and Stereo-depth Estimation by Watching Videos", IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019. [[paper](https://arxiv.org/abs/1810.03654)][[code](https://github.com/baidu-research/UnDepthflow)]
         
 Chenxu Luo*, <strong>Zhenheng Yang*</strong>, Peng Wang, Yang Wang, Wei Xu, Ram Nevatia, and Alan Yuille. "Every pixel counts++: Joint learning of geometry and motion with 3d holistic understanding.", TPAMI under review. [[paper](https://arxiv.org/abs/1810.06125)]
 
